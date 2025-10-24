@@ -282,15 +282,16 @@ nav button {
 }
 
 .solution_pic {
-  flex: 1;
+  width: 50%;
 }
 .solution_pic img{
-  width: 100%;
   height: 100%;
+  width: 100%;
   object-fit: cover;
 }
+
 .solution_texte {
-  flex: 2;
+  width: 50%;
 
 }
 .solution_texte p{
