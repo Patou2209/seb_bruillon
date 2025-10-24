@@ -284,6 +284,11 @@ nav button {
 .solution_pic {
   flex: 1;
 }
+.solution_pic img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 .solution_texte {
   flex: 2;
 
