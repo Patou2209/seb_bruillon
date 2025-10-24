@@ -180,7 +180,7 @@ nav button {
   flex-direction: column;
   align-items: flex-start;
   padding-left: 25px;
-  align-items: center;
+  justify-content: center;
    background: linear-gradient(to left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.5) 50%, rgba(21, 21, 100, 1) 100%), url(assets/power-lines-532720_1280.jpg) no-repeat center/cover;
     color: var(--color-white);
 }
@@ -608,7 +608,7 @@ footer .subscribe a.yellow:hover{
     flex-direction: column;
     align-items: flex-start;
     padding-left: 15px;
-    align-items: center;
+    justify-content: center;
      background: linear-gradient(to left, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.5) 50%, rgba(21, 21, 100, 1) 100%), url(assets/power-lines-532720_1280.jpg) no-repeat center/cover;
     color: var(--color-white);
   }
