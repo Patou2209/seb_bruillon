@@ -819,7 +819,7 @@ footer .subscribe a.yellow:hover{
 
 .item8 {
   animation-delay: calc(40s / 8 * (8 - 8) * -1);
-  background-image: url('assets/logo_part/Sterling_Wilson__Logo.jpg');
+  background-image: url('assets/logo_part/sterling.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
